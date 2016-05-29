@@ -1,5 +1,5 @@
 #Prerequisites
-Docker run
+Install Docker Engine at https://docs.docker.com/engine/installation/
 
 #Build the docker as follows
 
